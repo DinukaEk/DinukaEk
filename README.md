@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DinukaEk
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently Software Engineering Undergraduate
+- 📫 How to reach me mailto:dinukaekanayake2218@gmai.com
