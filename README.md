@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @DinukaEk
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently Software Engineering Undergraduate
-- 📫 How to reach me mailto:dinukaekanayake2218@gmai.com
+- 📫 How to reach me mailto:dinukaekanayake2218@gmail.com
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/dinukaekanayake/">[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ---
