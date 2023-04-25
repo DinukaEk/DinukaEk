@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @DinukaEk
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently Software Engineering Undergraduate
-- 📫 How to reach me mailto:dinukaekanayake2218@gmail.com
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/dinukaekanayake/"><[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+- 📫 How to reach me <a href="mailto:dinukaekanayake2218@gmail.com">Mail</a>, <a href="https://www.linkedin.com/in/dinukaekanayake/">LinkedIn</a>, <a href="https://www.facebook.com/dinuka.ekanayake.74/">Facebook</a>, <a href="https://twitter.com/DinukaEk">Twitter</a>
 
 ---
 #### 🦾 Software
@@ -17,7 +13,7 @@
 
 ---
 #### 💽 Adobe
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,lr,xd,ae,dw)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,xd,ae)](https://skillicons.dev)
 
 ---
 #### 🗄 Database
