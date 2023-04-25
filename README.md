@@ -4,7 +4,7 @@
 - 📫 How to reach me mailto:dinukaekanayake2218@gmail.com
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/dinukaekanayake/">[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dinukaekanayake/"><[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ---
