@@ -6,4 +6,17 @@
 
 ---
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,kotlin,nodejs,flutter,angular,arduino,bootstrap,cs,dotnet,fortran,idea,jquery,lua,powershell,swift,react,raspberrypi,r,php,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp,java,nodejs,react,flutter,bootstrap,cs,r,php)](https://skillicons.dev)
+
+---
+#### 🧬 Tools & Programs
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,git,postman,eclipse,vscode,codepen,firebase,netbeans)](https://skillicons.dev)
+
+---
+#### 💽 Adobe
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,lr,xd,ae)](https://skillicons.dev)
+
+---
+#### 🗄 Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
+
