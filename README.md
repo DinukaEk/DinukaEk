@@ -10,13 +10,13 @@
 
 ---
 #### 🧬 Tools & Programs
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,git,postman,eclipse,vscode,codepen,firebase,netbeans)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,git,postman,eclipse,vscode,codepen,github,intelij,pycharm)](https://skillicons.dev)
 
 ---
 #### 💽 Adobe
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,lr,xd,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,lr,xd,ae,dw)](https://skillicons.dev)
 
 ---
 #### 🗄 Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws)](https://skillicons.dev)
 
