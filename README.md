@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Dinuka Ekanayake
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;Full+Stack+Developer;Graphic+Designer;Photographer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -35,8 +35,8 @@ const dinuka = {
 ## 🔥 What I'm Up To
 
 - 💼 Working as an **Associate Software Engineer**, crafting digital solutions
-- 🌱 Currently exploring **Cloud Architecture** and **DevOps practices**
-- 🎯 2025 Goals: Contribute to more open-source projects and master **AWS**
+- 🌱 Currently exploring **Machine Learning** , **AI-powered applications** and **DevOps practices**
+- 🎯 2025 Goals: Contribute to more open-source projects and master **Machine Learning**
 - 💡 Always eager to collaborate on innovative projects
 - ⚡ Fun fact: I can design it, code it, and deploy it!
 
@@ -105,12 +105,14 @@ const dinuka = {
 
 ## 🎯 2025 Goals
 
+- [ ] Build and deploy 3 AI/ML projects
 - [ ] Contribute to 5+ open-source projects
-- [ ] Master AWS cloud services
-- [ ] Build a SaaS application
-- [ ] Learn Kubernetes and Docker
-- [ ] Write technical blog posts
-- [ ] Mentor junior developers
+- [ ] Master TensorFlow and PyTorch frameworks
+- [ ] Create a full-stack web application with AI integration
+- [ ] Learn advanced algorithms and data structures
+- [ ] Write technical blog posts about AI/ML journey
+- [ ] Complete a machine learning certification
+- [ ] Mentor junior developers and share knowledge
 
 ## 🤝 Let's Connect!
 
