@@ -36,7 +36,7 @@ const dinuka = {
 
 ## 🔥 What I'm Up To
 
-- 💼 Worked as **Software Engineer** at Csquare Technologies, developing enterprise ERP systems
+- 💼 Worked as a **Software Engineer** at Csquare Technologies, developing enterprise ERP systems
 - 🌱 Currently exploring **Machine Learning**, **AR/VR technologies**, **DevOps**, and **Diffusion Models**
 - 🎯 Built a hybrid AR + AI virtual try-on system integrating computer vision and generative AI
 - 💡 Passionate about creating user-focused digital experiences
@@ -148,7 +148,7 @@ Sri Lanka Technology Campus | 2019 - 2025
 ## 🎮 Beyond Coding
 
 - 🎨 Graphic design and UI/UX design
-- 📸 **Photography** - Covered 50+ events as official photographer
+- 📸 **Photography** - Covered 120+ events as official photographer
 - 🎬 Video editing and content creation
 - 🌍 Exploring new technologies and frameworks
 - 🎵 Lo-fi beats enthusiast while coding
@@ -158,7 +158,7 @@ Sri Lanka Technology Campus | 2019 - 2025
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DinukaEk&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Build and deploy 3+ AI/ML production applications
 - [ ] Contribute to 5+ open-source projects
@@ -179,7 +179,7 @@ Sri Lanka Technology Campus | 2019 - 2025
 - Managed fundraising projects and inter-university collaborations
 
 **Photographer & Graphic Designer** | Media Unit of SLTC (2019-2022)
-- Covered 50+ events and created visual content
+- Covered 120+ events and created visual content
 
 ## 🤝 Let's Connect!
 
